@@ -251,7 +251,7 @@ main > .section:first-of-type {
 /* section metadata */
 main .section.light,
 main .section.highlight {
-  background-color: var(--light-color);
+  background-color: white;
   margin: 0;
   padding: 40px 0;
 }
@@ -297,4 +297,12 @@ footer.footer-wrapper a:hover {
 
 footer.footer-wrapper .columns-wrapper .columns > div {
   align-items: flex-start;
+}
+
+footer.footer-wrapper .section {
+  margin: 40px 0px;
+}
+
+.text-container {
+  text-align: center;
 }
