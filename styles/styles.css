@@ -297,6 +297,7 @@ footer.footer-wrapper a:hover {
 
 footer.footer-wrapper .columns-wrapper .columns > div {
   align-items: flex-start;
+  list-style-image: url(https://srilanka.travel/images/theames-new/bullet-arrow.png);
 }
 
 footer.footer-wrapper .section {
